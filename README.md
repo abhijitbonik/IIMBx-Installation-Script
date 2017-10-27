@@ -14,10 +14,9 @@
                     The script takes the system password as parameter
                     Run the script-
 
-                                ```
-                                ./iimbx.sh password
-
-                                ```
+```
+./iimbx.sh password
+```
         
         Note: The script has been successfully tested on UBUNTU 16.04 machine.
 
