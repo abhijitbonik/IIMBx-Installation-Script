@@ -20,4 +20,4 @@
         
         Note: The script has been successfully tested on UBUNTU 16.04 machine.
 
-        For Multilayer installation please refer to - [4 layer installation script](https://github.com/abhisgithub/IIMBx-Multiple-Cluster-Instalation "Git repository")
+        For Multilayer installation please refer to - https://github.com/abhisgithub/IIMBx-Multiple-Cluster-Instalation
