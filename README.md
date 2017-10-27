@@ -1,8 +1,8 @@
 
 
-                                        IIMBx Single Machine Instalation Script
+                                        #IIMBx Single Machine Installation Script
         
-        This is a single machine instalation script for creating a IIMBx Drupal instance on Ubuntu server.
+        This is a single machine installation script for creating a IIMBx Drupal instance on Ubuntu server.
 
         Requirements-
                     Clean instalation of UBUNTU 16.04
@@ -20,4 +20,4 @@
         
         Note: The script has been successfully tested on UBUNTU 16.04 machine.
 
-        For Multilayer instalation please refer to - https://github.com/abhisgithub/IIMBx-Multiple-Cluster-Instalation 
+        For Multilayer installation please refer to - [4 layer installation script](https://github.com/abhisgithub/IIMBx-Multiple-Cluster-Instalation)
