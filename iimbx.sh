@@ -12,13 +12,13 @@ sudo -S <<< $1 apt-get update
 sudo -S <<< $1 apt-get install -y mysql-server
 
 echo "Downloaing IIMbx database from Git Lab"
-wget http://gitlab.cse.iitb.ac.in/mangeshg/iimbx/raw/master/iimbx_21082017.sql
+wget http://gitlab.cse.iitb.ac.in/mangeshg/iimbx/raw/master/iimbx_13112017.sql
 
 echo "Creating a iimbx database"
 mysql -uroot -proot -e "CREATE DATABASE iimbx ;"
 
 echo "Importing the database on Mysql server"
-mysql -u root -proot iimbx < iimbx_21082017.sql
+mysql -u root -proot iimbx < iimbx_13112017.sql
 
 
 
